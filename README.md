@@ -8,7 +8,7 @@ There are two folders of files, one has the original solidworks files, the other
 
 The solidworks model allows you to adjust, recreate, change and do whatever you would like to the overall t-rex design and model. You can also easily move the model around in a 3D environment in order to see what parts go where when building the t-rex.
 
-The DXF files are what you will use to cut out all of the pieces. DXF files are flat files that give the laser a path to follow for cutting parts. I have not supplied a nested file with all the parts combined into panels ready for cutting.
+The DXF files are what you will use to cut out all of the pieces. DXF files are flat files that give the laser a path to follow for cutting parts. There are also nested files with all the parts already laid out. There is a file for a laser that can accommodate 24" x 36" material. In order to cut all the parts out on a laser that can handle 20" x 32", there are two separate files to cut. I have provided three different types of files, Illustrator, PDF, and DXF. All are the same and should provide the same outcome.
 
 The one excel file is for the number of parts needed of each different shape. Some of the parts are needed twice, four times, some 16+. Using this file when laying out all the parts for nesting is very helpful.
 
